@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:2563eb,70:06b6d4,100:22d3ee&text=Yashaswee%20Mishra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20•%20React%20•%20AI&descAlignY=58"/>
@@ -127,4 +127,4 @@ Minimal.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:22d3ee,100:0f172a"/>
 
-````
+

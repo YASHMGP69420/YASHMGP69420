@@ -1,141 +1,130 @@
-
+````md
 <div align="center">
 
-# Hi 👋, I'm Yashaswee Mishra
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:2563eb,70:06b6d4,100:22d3ee&text=Yashaswee%20Mishra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20•%20React%20•%20AI&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Things+People+Actually+Use.;Coffee+%E2%98%95+%7C+Code+%F0%9F%92%BB+%7C+Repeat+%F0%9F%94%A5;Spring+Boot+.+React+.+Node.js+.+Python"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
+
+---
+
+```ascii
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
+```
+
+## ⚡ SYSTEM.STATUS
+
+```yaml
+Name:        Yashaswee Mishra
+Role:        Full Stack Developer
+Education:   B.Tech CSE
+Backend:     Java • Spring Boot • Node.js
+Frontend:    React • HTML • CSS • JavaScript
+Database:    MongoDB • MySQL
+Learning:    AI • Machine Learning
+Status:      Building cool stuff...
+```
+
+---
+
+# ⚙️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,python,git,github,docker,vscode&perline=6"/>
+
 </p>
 
-</div>
+---
+
+# 🚀 Featured Builds
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🧵 Threadit
+
+Anonymous social media platform.
+
+React • Node • MongoDB
+
+</td>
+
+<td>
+
+<img src="YOUR_GIF_OR_SCREENSHOT"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="YOUR_GIF_OR_SCREENSHOT"/>
+
+</td>
+
+<td>
+
+## 🛒 PRIME•PICK
+
+Modern eCommerce experience.
+
+Fast.
+Responsive.
+Minimal.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 💫 About Me
+# 📊 GitHub
 
-🎓 B.Tech Computer Science Undergraduate @ ITER (SOA University)
+<p align="center">
 
-💻 Passionate about building full-stack web applications.
-
-🚀 Interested in Backend Development, Java Ecosystem, and AI-powered applications.
-
-🌱 Currently improving my Spring Boot and React skills while exploring Machine Learning.
-
-⚡ I enjoy turning ideas into clean, responsive, and scalable applications.
-
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode&perline=6"/>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+# 🔥 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 ---
 
-# 🚀 Featured Projects
+# 🐍 Contribution Snake
 
-### 🧵 Threadit
-Anonymous social platform built using **React, Node.js, Express, MongoDB and ImageKit**.
-
-⭐ Features
-
-- Anonymous posting
-- Image uploads
-- Responsive UI
-- REST API backend
-
----
-
-### 🛒 PRIME•PICK
-
-Modern e-commerce frontend with clean UI and responsive design.
-
----
-
-### 🎯 Custom Cursor
-
-A lightweight JavaScript project that creates smooth animated custom cursors.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&margin-w=15"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat."
+## 「 Keep Building 」
 
-⭐ Thanks for visiting my profile!
+> *"Great software isn't written overnight. It's rewritten."*
 
 </div>
 
-<!--
-**YASHMGP69420/YASHMGP69420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:22d3ee,100:0f172a"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````

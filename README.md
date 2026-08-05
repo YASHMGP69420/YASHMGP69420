@@ -62,7 +62,7 @@ Built for iOS & Android from a single codebase.
 
 <div align="center">
 
-<img src="/YASHMGP69420/assets/image.png" width="70%"/>
+<img src="/assets/image.png" width="70%"/>
 <br/>
 <sub>Threadit — anonymous social feed</sub>
 

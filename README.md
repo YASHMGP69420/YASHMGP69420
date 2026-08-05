@@ -101,59 +101,7 @@ Built for iOS & Android from a single codebase.
 
 ### 🐍 Contribution Graph
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/YASHMGP69420/YASHMGP69420/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-> This snake animates your commit graph but needs a one-time setup — a GitHub Action that regenerates it daily.
-
-<details>
-<summary><b>⚙️ One-time setup for the snake animation</b></summary>
-
-1. In this repo, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: YASHMGP69420
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: SECRET_GITHUB_TOKEN_PLACEHOLDER
-```
-
-2. In that last step, replace `SECRET_GITHUB_TOKEN_PLACEHOLDER` with GitHub's built-in secrets token reference (search "ghaction-github-pages GITHUB_TOKEN example" if unsure of the exact syntax — GitHub strips it from raw text here).
-3. Commit and push — the Action runs automatically and creates an `output` branch with the SVG.
-4. Once it's run once, the snake image above renders live.
-
-</details>
-
----
-
-<div align="center">
 
 ### 📫 Let's Connect
 

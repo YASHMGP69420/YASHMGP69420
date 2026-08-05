@@ -67,9 +67,6 @@ Built for iOS & Android from a single codebase.
 <sub>Threadit — anonymous social feed</sub>
 
 </div>
-
-> Upload `threadit-feed.png` into an `assets/` folder in this repo so the image above renders. TaskFlow's repo was removed, so no screenshot for it here — swap this note out if you rebuild it.
-
 ---
 
 ### 🛠️ Tech Stack
@@ -77,7 +74,6 @@ Built for iOS & Android from a single codebase.
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)

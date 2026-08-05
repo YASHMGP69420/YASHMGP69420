@@ -1,121 +1,57 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=YASHASWEE%20MISHRA&fontAlign=50&fontAlignY=40&fontSize=55&color=gradient&animation=fadeIn"/>
+<img width="100%" src="./assets/banner.svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=⚡+SYSTEM+ONLINE...;⚔️+Class:+Full+Stack+Developer;🧠+Skill+Tree:+Java+•+React+•+Spring+Boot;🚀+Current+Quest:+Become+Legendary"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Initializing+Sorcerer+Database...;Scanning+Cursed+Energy...;Special+Grade+Developer+Detected...;Welcome+Yashaswee+Mishra."/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-# 「 PLAYER PROFILE 」
+<div align="center">
 
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 呪術高専
 
-Name        :: Yashaswee Mishra
+## SPECIAL GRADE DEVELOPER
 
-Class       :: Full Stack Developer
+*"Every bug is another curse waiting to be exorcised."*
 
-Rank        :: CSE Undergraduate
-
-Guild       :: ITER • SOA University
-
-Affinity    :: Backend • AI • Web Development
-
-Mana        :: ☕ Coffee
-
-Current XP  :: Learning Every Day
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+</div>
 
 ---
-
-# ⚔️ SKILL TREE
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,mysql,python,git,github,docker,vscode&theme=dark"/>
-
-</p>
-
----
-
-# 🌀 ACTIVE QUESTS
 
 ```text
-✓ Building scalable backend systems
+██████████████████████████████████
 
-✓ Exploring Artificial Intelligence
+STATUS
 
-✓ Creating beautiful user experiences
+ONLINE
 
-✓ Learning something new every single day
+──────────────────────────────────
+
+CURRENT MISSION
+
+Become a World-Class Software Engineer
+
+──────────────────────────────────
+
+ENERGY
+
+███████████████████████ 98%
+
+──────────────────────────────────
+
+LOCATION
+
+INDIA
+
+██████████████████████████████████
 ```
 
 ---
-
-# 📜 LEGENDARY ARTIFACTS
-
-## 🧵 Threadit
-
-> Anonymous social platform
-
-```
-React
-Node.js
-MongoDB
-ImageKit
-```
-
----
-
-## 🛒 PRIME•PICK
-
-> Modern e-commerce experience
-
-```
-Responsive UI
-JavaScript
-Modern Design
-```
-
----
-
-# 📈 BATTLE STATISTICS
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 COMBAT HISTORY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
-# 🐉 DRAGON'S PATH
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
----
-
-<div align="center">
-
-## 🌸 「 There is no talent without discipline. 」
-
-*"Every line of code is another level gained."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient"/>
-
-````

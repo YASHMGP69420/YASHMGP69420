@@ -50,7 +50,7 @@ Anonymous full-stack social media platform with feeds, communities, image upload
 
 `Vite` `React` `Node.js` `Express` `MongoDB` `ImageKit` `Vercel` `Render`
 
-</td>
+</td></tr></table>
 ---
 
 ### Project Snapshot

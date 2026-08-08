@@ -51,18 +51,6 @@ Anonymous full-stack social media platform with feeds, communities, image upload
 `Vite` `React` `Node.js` `Express` `MongoDB` `ImageKit` `Vercel` `Render`
 
 </td>
-<td width="50%" valign="top">
-
-#### TaskFlow
-
-Cross-platform task management app built for iOS and Android from a single codebase.
-
-`React Native` `Expo` `TypeScript`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### Project Snapshot
